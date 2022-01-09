@@ -11,9 +11,7 @@ We recommend that you take a look at the existing issues and comment on those th
 
 #### Questions or suggestion of the project
 
-For question or suggestion of feature\idea you can create issue 
-or send email to open-source.yoomoney.com
-
+For question or suggestion of feature\idea you can create issue or send email to open-source.yoomoney.com
 If you find a problem in functionality, you can open a new issue(bug type) with a detailed description of the problem.
 
 #### Don't be afraid to comment
